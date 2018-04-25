@@ -11,13 +11,8 @@ through past projects in an attempt to discover some trick to finding success.
 
 ### Conclusions
 
-Using advanced Excel, I modified and analyzed the data of four thousand past Kickstarter projects to uncover some of the market trends.
-
-* In the following pivot table,  we notice  how many campaigns are "successful", "failed", "cancelled", or are currently "live"
-  per category:
-        
-    ![KickStart](Images/categories_pt.jpg)
-    
+Using advanced Excel, I analyzed the data of four thousand past Kickstarter projects to uncover some of the market trends.
+ 
 * CHART Outcomes based on categories:
     
     ![KickStart](Images/categories.jpg)    
